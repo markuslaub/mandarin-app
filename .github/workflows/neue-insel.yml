@@ -1,0 +1,105 @@
+name: Neue Insel
+
+# Startet, wenn der Besitzer des Repositorys aus der App ein Issue «Neue Insel: …» anlegt.
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: neue-insel
+  cancel-in-progress: false
+
+jobs:
+  bauen:
+    if: startsWith(github.event.issue.title, 'Neue Insel') && github.event.issue.user.login == github.repository_owner
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      MODELLE: ${{ github.workspace }}/../modelle
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Bestätigung im Issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue comment ${{ github.event.issue.number }} --body "Auftrag erhalten. Claude übersetzt jetzt und erstellt Audio und Tonkurven. Das dauert etwa 10 Minuten."
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Programme installieren
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q sherpa-onnx==2.0.3 piper-tts==1.8.0 pypinyin==0.55.0 soundfile numpy
+
+      - name: Modelle aus dem Zwischenspeicher
+        id: cache
+        uses: actions/cache@v4
+        with:
+          path: ${{ github.workspace }}/../modelle
+          key: modelle-v1
+
+      - name: Modelle laden
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: |
+          mkdir -p "$MODELLE" && cd "$MODELLE"
+          R=https://github.com/k2-fsa/sherpa-onnx/releases/download
+          curl -sSL $R/tts-models/matcha-icefall-zh-baker.tar.bz2 | tar xj
+          curl -sSLO $R/vocoder-models/vocos-22khz-univ.onnx
+          curl -sSL $R/tts-models/vits-piper-de_DE-thorsten-medium.tar.bz2 | tar xj
+          curl -sSL $R/asr-models/sherpa-onnx-paraformer-zh-2023-09-14.tar.bz2 | tar xj
+          rm -rf sherpa-onnx-paraformer-zh-2023-09-14/test_wavs
+
+      - name: Auftrag ablegen
+        env:
+          TITEL: ${{ github.event.issue.title }}
+          TEXT: ${{ github.event.issue.body }}
+        run: |
+          printf '%s\n\n%s\n' "$TITEL" "$TEXT" > /tmp/auftrag.txt
+          cat /tmp/auftrag.txt
+
+      - name: Claude übersetzt und baut das Paket
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          github_token: ${{ github.token }}
+          claude_args: >-
+            --max-turns 60
+            --allowedTools "Read,Write,Edit,Glob,Grep,Bash(python3 werkzeug/neue_insel.py:*),Bash(cat:*),Bash(ls:*)"
+          prompt: |
+            Lies die Datei werkzeug/ANLEITUNG-CLAUDE.md und führe sie aus.
+            Der Auftrag von Markus steht in /tmp/auftrag.txt.
+            Die Modelle liegen im Ordner aus der Umgebungsvariable MODELLE; das Skript findet sie selbst.
+
+      - name: Ergebnis hochladen
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          test -f /tmp/ergebnis.md || { echo "Kein Ergebnis"; exit 1; }
+          git config user.name "github-actions[bot]"
+          git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
+          git add pakete werkzeug
+          git commit -m "Neue Insel aus Issue #${{ github.event.issue.number }}"
+          git push
+          gh api -X POST repos/${{ github.repository }}/pages/builds || true
+          gh issue comment ${{ github.event.issue.number }} --body-file /tmp/ergebnis.md
+          gh issue close ${{ github.event.issue.number }}
+
+      - name: Fehler melden
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue comment ${{ github.event.issue.number }} --body "Das hat leider nicht geklappt. Details: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"

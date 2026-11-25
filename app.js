@@ -583,12 +583,17 @@
       var grp = inseln.filter(function (p) { return p.thema === themen[t]; });
       for (var i = 0; i < grp.length; i++) list.appendChild(await pkgItem(grp[i], function (meta) { openInsel(meta.id); }));
     }
-    VIEW.appendChild(h('<p class="muted small">Eigene Inseln: «Neue Insel» antippen, Sätze auf Deutsch tippen oder diktieren, an Claude senden. Das fertige Paket erscheint hier oder kommt als Paket-Datei. Geladene Pakete bleiben offline verfügbar.</p>'));
+    VIEW.appendChild(h('<p class="muted small">Eigene Inseln: «Neue Insel» antippen, Sätze auf Deutsch tippen oder diktieren, an Claude senden. Das fertige Paket erscheint nach etwa 10 Minuten hier. Geladene Pakete bleiben offline verfügbar.</p>'));
   }
 
   // ---------- Eigene Inseln: Sätze erfassen ----------
   function entwuerfe() { try { return JSON.parse(localStorage.getItem('mandarin-entwuerfe') || '[]'); } catch (e) { return []; } }
   function saveEntwuerfe(a) { try { localStorage.setItem('mandarin-entwuerfe', JSON.stringify(a)); } catch (e) { } }
+  function repoName() {
+    var hn = location.hostname, seg = location.pathname.split('/').filter(Boolean)[0];
+    if (/\.github\.io$/.test(hn) && seg) return hn.split('.')[0] + '/' + seg;
+    return 'markuslaub/mandarin-app';
+  }
   function editInsel(id) {
     var all = entwuerfe(), d = all.filter(function (x) { return x.id === id; })[0];
     if (!d) { d = { id: 'e' + Date.now(), titel: '', thema: 'Freunde und Familie', saetze: [''], notiz: '' }; }
@@ -624,16 +629,18 @@
     }
     function auftrag() {
       var s = d.saetze.map(function (x) { return x.trim(); }).filter(Boolean);
-      return 'Neue Sprachinsel für meine Mandarin-App\nName: ' + (d.titel || 'Ohne Titel') + '\nThema: ' + d.thema + '\n' + (d.notiz ? 'Hinweis: ' + d.notiz + '\n' : '') + '\nSätze:\n' + s.map(function (x, i) { return (i + 1) + '. ' + x; }).join('\n') + '\n\nBitte übersetzen (Chinesisch, Pinyin, Wort-Erklärungen mit Herleitung, Audio) und als Paket bereitstellen.';
+      return 'Neue Sprachinsel für meine Mandarin-App\nName: ' + (d.titel || 'Ohne Titel') + '\nThema: ' + d.thema + '\n' + (d.notiz ? 'Hinweis: ' + d.notiz + '\n' : '') + '\nSätze:\n' + s.map(function (x, i) { return (i + 1) + '. ' + x; }).join('\n') + '';
     }
-    var send = h('<div class="card"><h3 style="margin-top:0">An Claude senden</h3><p class="muted small">Die Liste wird als Text geteilt, zum Beispiel an die Claude-App in diesen Projekt-Chat. Zum Senden ist Internet nötig.</p><div class="row"><button class="btn primary" data-a="share">Teilen …</button><button class="btn" data-a="copy">Text kopieren</button><span class="spacer"></span><button class="btn small" data-a="del">Entwurf löschen</button></div><div data-r="msg"></div></div>');
+    var send = h('<div class="card"><h3 style="margin-top:0">An Claude senden</h3><p class="muted small">GitHub öffnet sich mit dem fertigen Auftrag. Dort unten auf «Create» tippen. Claude übersetzt dann, erstellt Audio und Tonkurven, und nach etwa 10 Minuten erscheint die Insel unter «Inseln». Zum Senden ist Internet nötig.</p><div class="row"><button class="btn primary" data-a="share">An Claude senden</button><button class="btn" data-a="copy">Text kopieren</button><span class="spacer"></span><button class="btn small" data-a="del">Entwurf löschen</button></div><div data-r="msg"></div></div>');
     VIEW.appendChild(send);
     var msg = send.querySelector('[data-r=msg]');
     function markSent() { d.gesendet = today(); persist(); }
-    send.querySelector('[data-a=share]').onclick = async function () {
+    send.querySelector('[data-a=share]').onclick = function () {
       if (!d.saetze.some(function (x) { return x.trim(); })) { msg.innerHTML = '<div class="msg">Erst mindestens einen Satz eingeben.</div>'; return; }
-      if (navigator.share) { try { await navigator.share({ title: 'Neue Sprachinsel', text: auftrag() }); markSent(); msg.innerHTML = '<div class="msg">Geteilt. Das Paket erscheint nach der Übersetzung unter «Inseln».</div>'; } catch (e) { } }
-      else send.querySelector('[data-a=copy]').click();
+      var url = 'https://github.com/' + repoName() + '/issues/new?title=' + encodeURIComponent('Neue Insel: ' + (d.titel || 'Ohne Titel')) + '&body=' + encodeURIComponent(auftrag());
+      window.open(url, '_blank');
+      markSent();
+      msg.innerHTML = '<div class="msg">Auf GitHub «Create» tippen. Die Insel erscheint nach etwa 10 Minuten unter «Inseln». Den Stand siehst du auf GitHub unter «Issues».</div>';
     };
     send.querySelector('[data-a=copy]').onclick = async function () {
       try { await navigator.clipboard.writeText(auftrag()); markSent(); msg.innerHTML = '<div class="msg">Kopiert. Jetzt in den Chat mit Claude einfügen.</div>'; }

@@ -1,0 +1,876 @@
+我|Pron|ich|Ursprünglich Bild einer Hellebarde (Waffe 戈 mit gezackter Klinge). Wurde wegen des gleichen Lauts für «ich» entlehnt.
+的|Part|Besitz- und Attributpartikel («-s», «von»)|白 weiss + 勺 Löffel; ursprünglich «hell, klar». Heute grammatisch: 我的 = mein, 好吃的菜 = feines Essen.
+家|N|Familie, Zuhause; ZW für Firmen|宀 Dach + 豕 Schwein: ein Haus mit Vieh galt als Heim. 在家 = zu Hause.
+叫|V|heissen, rufen|口 Mund + 丩 (Lautteil): mit dem Mund rufen. 我叫… = Ich heisse…
+王小明|Name|Wang Xiaoming|王 Familienname Wang (wörtlich «König»), 小明 «kleiner Heller».
+是|V|sein|日 Sonne über 正 richtig: ursprünglich «so ist es». Verbindet Nomen: 我是学生. Vor Adjektiven steht 很, nicht 是.
+中国人|N|Chinese, Chinesin|Land + 人 = Bewohner: 瑞士人 Schweizer.
+在|V/Präp|sich befinden; in, an; gerade (tun)|Ortsangabe steht vor dem Verb: 在学校工作. Vor Verben auch «gerade»: 我在看书.
+北京|Name|Peking|北 Norden + 京 Hauptstadt: «nördliche Hauptstadt».
+有|V|haben; es gibt|Hand 𠂇 hält ein Stück Fleisch (月 = 肉): etwas besitzen. Verneint mit 没: 没有.
+三|Zahl|drei|Drei Striche.
+个|ZW|allgemeines Zählwort|Steht zwischen Zahl/这/那 und Nomen: 三个人. Wird im Deutschen nicht übersetzt.
+人|N|Mensch, Person|Bild eines gehenden Menschen mit zwei Beinen.
+爸爸|N|Vater, Papa|父 Vater + 巴 (Lautteil). Verdoppelung ist typisch für Familienwörter.
+妈妈|N|Mutter, Mama|女 Frau + 马 (Lautteil mǎ).
+和|Konj/Präp|und; mit|Verbindet Nomen (爸爸和妈妈), keine Sätze. 和朋友去 = mit Freunden gehen.
+医生|N|Arzt, Ärztin|医 heilen + 生 Person: «wer heilt».
+他|Pron|er|亻 Mensch + 也 (Lautteil). Gleich ausgesprochen wie 她 sie und 它 es.
+医院|N|Spital|医 heilen + 院 Hof, Institution.
+工作|V/N|arbeiten; Arbeit, Stelle|工 Arbeit + 作 machen.
+老师|N|Lehrer, Lehrerin|老 ehrwürdig + 师 Meister. Auch Anrede: 王老师 = Frau/Herr Wang (Lehrer).
+她|Pron|sie|女 Frau + 也 (Lautteil). Gleich ausgesprochen wie 他.
+学校|N|Schule|学 lernen + 校 Schule.
+学生|N|Schüler, Student|学 lernen + 生 Person: «lernende Person».
+学习|V|lernen, studieren|学 lernen + 习 üben.
+汉语|N|Chinesisch (Sprache)|汉 Han-Chinesen + 语 Sprache.
+很|Adv|sehr|Vor Adjektiven oft nur Bindeglied: 天气很好 = Das Wetter ist gut.
+喜欢|V|mögen, gern haben|喜 Freude + 欢 fröhlich. 喜欢 + Verb = etwas gern tun.
+喝|V|trinken|口 Mund + 曷 (Lautteil).
+茶|N|Tee|艹 Pflanze + 人 Mensch + 木 Baum: die Pflanze zwischen Mensch und Baum.
+今天|N|heute|今 jetzt + 天 Tag.
+星期六|N|Samstag|星期 Woche + 六 sechs: «Wochentag 6». Sonntag ist 星期天.
+天气|N|Wetter|天 Himmel + 气 Luft.
+好|Adj|gut; gern, einverstanden|女 Frau + 子 Kind: Mutter mit Kind steht für «gut». Als Antwort: «Einverstanden!»
+我们|Pron|wir|我 ich + 们 Mehrzahl für Personen.
+去|V|gehen, hingehen, fahren nach|Bewegung vom Sprecher weg. Gegenteil: 来 kommen.
+饭馆|N|Restaurant|饭 Essen + 馆 Gebäude, Lokal.
+吃|V|essen|口 Mund + 乞 (Lautteil).
+中国菜|N|chinesisches Essen|中国 China + 菜 Gericht.
+说|V|sagen, sprechen|讠 Rede + 兑 (Lautteil). 说汉语 = Chinesisch sprechen.
+这个|Pron|dieser, diese, dieses|这 dies + 个 Zählwort. Gegenteil: 那个 jenes.
+菜|N|Gericht, Speise; Gemüse|艹 Pflanze + 采 pflücken: gepflücktes Grün.
+太|Adv|zu, allzu; sehr|太…了 = toll! oder zu viel: 太好了 = super, 太贵了 = zu teuer.
+了|Part|(abgeschlossene Handlung, Veränderung)|Nach dem Verb: Handlung ist geschehen (我买了). Am Satzende: neue Lage (下雨了 = jetzt regnet es).
+高兴|Adj|froh, erfreut|高 hoch + 兴 Stimmung: «gehobene Stimmung».
+朋友|N|Freund, Freundin|朋 Gefährte + 友 Freund.
+一|Zahl|eins, ein|Ein Strich. Ton wechselt: vor 4. Ton yí (一个), sonst yì (一些), allein yī.
+中国|Name|China|中 Mitte + 国 Land: «Reich der Mitte».
+李大文|Name|Li Dawen|李 Familienname Li («Pflaume»), 大文 «grosse Bildung».
+今年|N|dieses Jahr|今 jetzt + 年 Jahr.
+岁|ZW|Jahre (Alter)|Nach der Zahl: 二十岁. Bei Altersangaben fällt 是 weg.
+同学|N|Mitschüler, Studienkollege|同 gleich + 学 lernen: «wer mit einem lernt».
+看|V|sehen, schauen, lesen; besuchen|手 Hand über 目 Auge: die Hand schirmt die Augen ab. 看朋友 = Freunde besuchen.
+电影|N|Film, Kino|电 Elektrizität + 影 Schatten: «elektrischer Schatten».
+会|Hilfsverb|können (gelernt); werden|Für erlernte Fähigkeiten: 会说汉语. Auch Vermutung: 不会下雨 = wird nicht regnen.
+做|V|machen, tun; kochen|亻 Mensch + 故 (Lautteil). 做菜 = kochen.
+昨天|N|gestern|昨 vorig + 天 Tag.
+下雨|V|regnen|下 herunterkommen + 雨 Regen.
+没|Adv|nicht (Vergangenheit); nicht haben|Verneint 有 und vergangene Handlungen: 没去 = ist nicht gegangen. Gegenwart/Zukunft: 不.
+电视|N|Fernsehen, Fernseher|电 Elektrizität + 视 sehen. 看电视 = fernsehen.
+明天|N|morgen|明 hell, kommend + 天 Tag.
+商店|N|Laden, Geschäft|商 Handel + 店 Laden.
+买|V|kaufen|3. Ton. Achtung: 卖 mài (4. Ton) heisst verkaufen.
+衣服|N|Kleider, Kleidung|衣 Gewand + 服 Kleidung.
+怎么样|Fragewort|wie; wie wäre es?|Am Satzende für Vorschläge und Fragen nach dem Befinden: 天气怎么样？
+上午|N|Vormittag|上 oberer, früherer + 午 Mittag.
+东西|N|Sachen, Dinge|东 Osten + 西 Westen: «alles von Ost bis West». 买东西 = einkaufen.
+里|Ortswort|in, drinnen|Nach dem Nomen: 商店里 = im Laden.
+多|Adj|viel, viele; mehr|Zwei 夕 (Abend) übereinander: «viele Abende». 多吃 = mehr essen.
+水果|N|Obst|水 Wasser + 果 Frucht: «saftige Frucht».
+想|V/Hilfsverb|möchten; denken; vermissen|相 (Lautteil) + 心 Herz. 我想你 = Ich vermisse dich.
+苹果|N|Apfel|苹 (Pflanze, Lautteil) + 果 Frucht.
+小姐|N|Fräulein; Anrede für junge Frau|小 klein + 姐 ältere Schwester.
+多少|Fragewort|wie viel|多 viel + 少 wenig: «viel oder wenig?» 多少钱？ = Was kostet es?
+钱|N|Geld|钅 Metall + 戋 (Lautteil): Münzen.
+五|Zahl|fünf|Zwei Linien (Himmel und Erde) mit Kreuz dazwischen.
+十|Zahl|zehn|Ein Kreuz: alle vier Richtungen, «vollständig».
+块|ZW|Yuan (mündlich); Stück|土 Erde + 夬 (Lautteil): ursprünglich Erdklumpen. 一块手表 = eine Uhr.
+谢谢|Ausdruck|danke|讠 Rede + 射 (Lautteil). Antwort: 不客气.
+不客气|Ausdruck|gern geschehen|不 nicht + 客气 höflich: «keine Förmlichkeit nötig».
+热|Adj|heiss, warm|灬 Feuer unten im Zeichen.
+水|N|Wasser|Bild eines fliessenden Baches.
+中午|N|Mittag|中 Mitte + 午 Mittag.
+回|V|zurückkehren|Kreis im Kreis: Wirbel, Umkehr. 回家 = nach Hause gehen.
+星期天|N|Sonntag|星期 Woche + 天 Tag. Auch 星期日.
+不|Adv|nicht|Ton wechselt: vor 4. Ton bú (不去), sonst bù.
+书|N|Buch|Ursprünglich Bild einer Hand mit Pinsel: schreiben.
+米饭|N|gekochter Reis|米 Reiskorn + 饭 Mahlzeit.
+饭|N|Essen, Mahlzeit; Reis|饣 Essen + 反 (Lautteil). 吃饭 = essen.
+点|ZW/N|Uhr (Uhrzeit); Punkt|灬 Feuer + 占 (Lautteil): ursprünglich schwarzer Fleck. 三点 = drei Uhr.
+星期一|N|Montag|星期 Woche + 一 eins. Weiter: 星期二 Dienstag usw.
+住|V|wohnen|亻 Mensch + 主 (Lautteil): wo ein Mensch bleibt.
+七|Zahl|sieben|Ursprünglich ein Kreuz mit gebogenem Strich (schneiden).
+月|N|Monat; Mond|Bild einer Mondsichel. 七月 = Juli.
+八|Zahl|acht|Zwei Striche, die sich trennen.
+冷|Adj|kalt|冫 Eis + 令 (Lautteil).
+日|N|Tag; Sonne|Bild der Sonne. Im Datum schriftlich: 五日 = der Fünfte.
+大|Adj|gross; alt (Alter)|Mensch mit ausgebreiteten Armen. 比我大 = älter als ich.
+猫|N|Katze|犭 Tier + 苗 (Lautteil māo/miáo, auch Miau).
+狗|N|Hund|犭 Tier + 句 (Lautteil).
+小|Adj|klein; jung|Drei kleine Punkte. Vor Namen vertraulich: 小王.
+咪咪|Name|Mimi (Katzenname)|Lautmalerei für «Miau».
+大白|Name|Dabai (Hundename)|大 gross + 白 weiss: «der grosse Weisse».
+漂亮|Adj|hübsch, schön|氵 Wasser + 票 und 亮 hell: glänzend wie Wasser.
+睡觉|V|schlafen|睡 schlafen (目 Auge + 垂 herabhängen) + 觉 Schlaf.
+时候|N|Zeit, Zeitpunkt|…的时候 = als…, wenn…: 下雨的时候.
+桌子|N|Tisch|桌 Tisch + 子 Nomensuffix.
+上|Ortswort/V|auf, oben; vorig; hinaufgehen|Strich über der Grundlinie. 桌子上 = auf dem Tisch, 上个月 = letzten Monat.
+坐|V|sitzen; fahren mit|Zwei 人 auf der Erde 土. 坐车 = mit dem Auto/Bus fahren.
+椅子|N|Stuhl|椅 Stuhl (木 Holz) + 子 Nomensuffix.
+后面|Ortswort|hinten, hinter|后 hinten + 面 Seite.
+爱|V|lieben|Traditionell 愛 mit 心 Herz in der Mitte; die vereinfachte Form hat das Herz durch 友 Freund ersetzt.
+打电话|V|telefonieren|打 schlagen, betätigen + 电话 Telefon. 给…打电话 = jemanden anrufen.
+大文|Name|Dawen|Vorname: 大 gross + 文 Bildung.
+喂|Ausdruck|hallo (am Telefon)|口 Mund + 畏 (Lautteil).
+你|Pron|du|亻 Mensch + 尔 du (alte Form).
+小明|Name|Xiaoming|Vorname: 小 klein + 明 hell.
+吗|Part|(Fragepartikel)|Macht aus einem Satz eine Ja/Nein-Frage: 你好吗？
+现在|N|jetzt|现 erscheinen + 在 sein: «was gerade da ist».
+哪儿|Fragewort|wo, wohin|哪 welch + 儿 (Endung, typisch für Peking). Auch 哪里.
+几|Fragewort|wie viele (unter 10); einige|几点？ = Wie spät? 几个人 = einige Leute.
+前面|Ortswort|vorne, vor|前 vorn + 面 Seite.
+见|V|sehen, treffen|目 Auge auf Beinen: «sehen». 明天见 = bis morgen.
+再见|Ausdruck|auf Wiedersehen|再 wieder + 见 sehen.
+先生|N|Herr; Ehemann|先 früher + 生 geboren: «der Ältere», respektvoll.
+你们|Pron|ihr; Sie (Mehrzahl)|你 du + 们 Mehrzahl.
+什么|Fragewort|was, welche|什 + 么 (Fragesuffix). 什么时候 = wann.
+女儿|N|Tochter|女 Frau + 儿 Kind.
+出租车|N|Taxi|出租 vermieten + 车 Wagen: «Mietwagen».
+火车站|N|Bahnhof|火车 Zug + 站 Station.
+分钟|N|Minute|分 Teil + 钟 Uhr.
+王|Name|Wang (Familienname)|Drei Striche (Himmel, Mensch, Erde) mit senkrechter Verbindung: «König».
+都|Adv|alle, beide; schon|Fasst das vorher Genannte zusammen: 我们都喜欢 = wir mögen es alle.
+读|V|lesen (laut), studieren|讠 Rede + 卖 (Lautteil).
+写|V|schreiben|冖 Abdeckung + 与 (vereinfachte Form).
+字|N|Schriftzeichen|宀 Dach + 子 Kind: «Kind unter dem Dach», später Zeichen.
+那儿|Pron|dort|那 jenes + 儿. Auch 那里.
+认识|V|kennen, kennenlernen|认 erkennen + 识 wissen.
+名字|N|Name|名 Name (夕 Abend + 口 Mund: im Dunkeln ruft man den Namen) + 字 Zeichen.
+安娜|Name|Anna|Lautumschrift.
+哪|Fragewort|welch, wo|口 + 那 jenes. 哪国人？ = aus welchem Land?
+国|N|Land, Staat|囗 Grenze + 玉 Jade: Kostbares innerhalb der Grenzen.
+瑞士|Name|Schweiz|Lautumschrift: 瑞 Glück + 士 Gelehrter.
+一点儿|Adv|ein bisschen|一 ein + 点 Punkt + 儿. Nach Adjektiv: 便宜一点儿 = etwas billiger.
+电脑|N|Computer|电 Elektrizität + 脑 Gehirn: «elektrisches Gehirn».
+一些|ZW|einige, etwas|一 + 些 einige.
+杯子|N|Tasse, Glas, Becher|杯 Becher (木 Holz + 不) + 子.
+下面|Ortswort|unten, unter|下 unten + 面 Seite.
+女|Adj/N|weiblich; Frau|Bild einer knienden Frau mit gekreuzten Armen.
+怎么|Fragewort|wie, warum|怎么走？ = Wie komme ich hin? 你怎么了？ = Was ist los?
+这些|Pron|diese (Mehrzahl)|这 dies + 些 einige.
+哪个|Fragewort|welcher, welche, welches|哪 welch + 个.
+那个|Pron|jener, jene, jenes; das dort|那 jenes + 个.
+李|Name|Li (Familienname)|木 Baum + 子: «Pflaumenbaum».
+星期三|N|Mittwoch|星期 Woche + 三 drei.
+请|V|bitten; einladen|讠 Rede + 青 (Lautteil). 请坐 = bitte setz dich; 请我吃饭 = mich zum Essen einladen.
+杯|ZW|Tasse, Glas (Zählwort)|一杯茶 = eine Tasse Tee.
+分|ZW|Minute; Teil|八 trennen + 刀 Messer: teilen. 七点十分 = 7.10 Uhr.
+回来|V|zurückkommen|回 zurück + 来 kommen.
+下|Ortswort/V|unten; nächst; herunterkommen|Strich unter der Grundlinie. 下个月 = nächsten Monat.
+飞机|N|Flugzeug|飞 fliegen + 机 Maschine.
+号|N|Nummer; Tag im Datum|口 Mund + 丂: rufen. 三号 = der Dritte.
+来|V|kommen|Ursprünglich Bild einer Weizenähre, als Laut entlehnt. Bewegung zum Sprecher hin.
+九|Zahl|neun|Gebogener Arm, als Zahl entlehnt.
+天|N|Tag; Himmel|Mensch 大 mit Strich darüber: der Himmel über dem Kopf.
+儿子|N|Sohn|儿 Kind + 子 Sohn.
+少|Adj|wenig|小 klein + 丿: noch weniger.
+星期五|N|Freitag|星期 Woche + 五 fünf.
+这|Pron|dies, dieser|辶 gehen + 文 (Lautteil).
+能|Hilfsverb|können (möglich sein)|Bild eines Bären, für Kraft und «können» entlehnt. 不能 = nicht dürfen/können.
+听|V|hören, zuhören|口 Mund + 斤 (Lautteil).
+后|Ortswort|nach, hinter|…后 = nach…: 回家后 = nach dem Heimkommen.
+上海|Name|Shanghai|上 auf + 海 Meer: «am Meer».
+汉字|N|chinesisches Schriftzeichen|汉 Han-Chinesen + 字 Zeichen.
+本|ZW|Zählwort für Bücher|木 Baum mit Strich an der Wurzel: Ursprung. 一本书.
+明年|N|nächstes Jahr|明 kommend + 年 Jahr.
+小东|Name|Xiaodong|Vorname: 小 klein + 东 Osten.
+六|Zahl|sechs|Ursprünglich Bild eines Daches, als Zahl entlehnt.
+火车|N|Zug, Eisenbahn|火 Feuer + 车 Wagen: aus der Dampflok-Zeit.
+对不起|Ausdruck|Entschuldigung|对 gegenüber + 不起 nicht ertragen können: «ich kann dir nicht in die Augen sehen».
+开|V|öffnen; fahren, abfahren|Zwei Hände öffnen einen Riegel. 开车 = Auto fahren.
+星期四|N|Donnerstag|星期 Woche + 四 vier.
+没关系|Ausdruck|macht nichts|没 nicht haben + 关系 Beziehung: «hat nichts damit zu tun».
+看见|V|sehen, erblicken|看 schauen + 见 sehen (Resultat).
+年|N|Jahr|Ursprünglich Mensch mit Getreide: die jährliche Ernte.
+朋友们|N|Freunde (Mehrzahl)|朋友 + 们.
+下午|N|Nachmittag|下 unterer, späterer + 午 Mittag.
+公司|N|Firma|公 öffentlich + 司 leiten, Amt.
+每天|N|jeden Tag|每 jeder + 天 Tag.
+早上|N|Morgen, früh am Morgen|早 früh + 上. 早上好 = guten Morgen.
+半|Zahl|halb|Ein Rind 牛 mit Strich in der Mitte: halbieren. 六点半 = halb sieben.
+起床|V|aufstehen|起 aufstehen + 床 Bett.
+跑步|V|joggen, laufen|跑 rennen + 步 Schritt.
+觉得|V|finden, meinen; sich fühlen|觉 empfinden + 得. 我觉得… = Ich finde…
+非常|Adv|sehr, äusserst|非 nicht + 常 gewöhnlich: «aussergewöhnlich».
+快乐|Adj|glücklich, fröhlich|快 schnell, froh + 乐 Freude. 生日快乐 = alles Gute zum Geburtstag.
+鸡蛋|N|Hühnerei|鸡 Huhn + 蛋 Ei.
+牛奶|N|Milch|牛 Kuh + 奶 Milch.
+离|Präp|entfernt von|A离B远 = A ist weit von B: 我家离公司不远.
+远|Adj|weit, fern|辶 gehen + 元 (Lautteil).
+所以|Konj|deshalb, also|Oft mit 因为: 因为…所以… = weil…, deshalb…
+走路|V|zu Fuss gehen|走 gehen + 路 Weg.
+上班|V|zur Arbeit gehen, arbeiten|上 hingehen + 班 Schicht.
+走|V|gehen; weggehen, abfahren|Ursprünglich Mensch mit schwingenden Armen über einem Fuss: laufen.
+就|Adv|schon, gleich; genau|Betont Schnelligkeit oder Folge: 十分钟就到了 = in nur zehn Minuten da.
+到|V|ankommen; bis|至 ankommen + 刂 (Lautteil). 到北京 = in Peking ankommen.
+忙|Adj|beschäftigt|忄 Herz + 亡 verloren: «das Herz verlieren».
+事情|N|Angelegenheit, Sache|事 Sache + 情 Lage.
+要|Hilfsverb/V|wollen; müssen; brauchen; werden|Ursprünglich Bild einer Taille, später «wollen». 我要茶 = Ich will Tee.
+一起|Adv|zusammen|一 eins + 起 aufstehen: «gemeinsam».
+吃饭|V|essen, eine Mahlzeit einnehmen|吃 essen + 饭 Mahlzeit.
+晚上|N|Abend|晚 spät + 上.
+休息|V|sich ausruhen|休 Mensch 亻 lehnt am Baum 木 + 息 Atem.
+报纸|N|Zeitung|报 Bericht + 纸 Papier.
+准备|V|vorbereiten; vorhaben|准 genau + 备 bereit.
+累|Adj|müde, erschöpft|田 Feld über 糸 Faden: schwere Last.
+但是|Konj|aber|但 nur + 是.
+也|Adv|auch|Steht immer vor dem Verb: 我也喜欢.
+生日|N|Geburtstag|生 geboren + 日 Tag.
+妹妹|N|jüngere Schwester|女 Frau + 未 (Lautteil).
+给|V/Präp|geben; für|纟 Faden + 合 (Lautteil). 给我 = mir; 给她做饭 = für sie kochen.
+好吃|Adj|lecker, fein|好 gut + 吃 essen: «gut zu essen».
+送|V|schenken; bringen|辶 gehen + 关. 送给她 = ihr schenken.
+手表|N|Armbanduhr|手 Hand + 表 Uhr.
+新|Adj|neu|亲 + 斤 Axt: frisch gehauenes Holz.
+手机|N|Handy|手 Hand + 机 Gerät.
+笑|V|lachen, lächeln|竹 Bambus über 夭: Bambus im Wind wie ein lachender Mensch.
+着|Part|(andauernder Zustand)|Nach dem Verb: 笑着说 = lachend sagen, 穿着 = trägt gerade.
+大家|Pron|alle|大 gross + 家 Familie: «die grosse Familie».
+唱歌|V|singen|唱 singen + 歌 Lied.
+跳舞|V|tanzen|跳 springen + 舞 Tanz.
+最|Adv|am meisten|最喜欢 = am liebsten, 最好 = am besten.
+旅游|V|reisen, Ferien machen|旅 Reise + 游 umherwandern.
+去年|N|letztes Jahr|去 vergangen + 年 Jahr.
+丈夫|N|Ehemann|丈 Mann + 夫 Mann.
+从|Präp|von, aus|Zwei Menschen hintereinander: folgen. 从瑞士 = aus der Schweiz.
+小时|N|Stunde|小 klein + 时 Zeit.
+早|Adj|früh|日 Sonne über 十: die Sonne steigt.
+贵|Adj|teuer|贝 Muschel (Geld) unten.
+羊肉|N|Lammfleisch|羊 Schaf + 肉 Fleisch.
+船|N|Schiff, Boot|舟 Boot + 㕣 (Lautteil).
+次|ZW|Mal|第一次 = das erste Mal, 三次 = dreimal.
+玩|V|spielen, sich vergnügen|王 Jade + 元: mit Jade spielen.
+得|Part|(Art und Weise)|Nach dem Verb: 唱得很好 = singt sehr gut. Als 觉得 Teil von «finden».
+还|Adv|noch; auch noch; ziemlich|还想去 = möchte noch einmal hin. Nicht zu verwechseln mit 还 huán «zurückgeben».
+生病|V|krank werden|生 bekommen + 病 Krankheit.
+身体|N|Körper; Gesundheit|身 Körper + 体 Leib. 身体好 = gesund.
+问|V|fragen|门 Tür + 口 Mund: an der Tür fragen.
+可能|Adv/Adj|vielleicht; möglich|可 können + 能 fähig.
+吧|Part|(Vorschlag, Vermutung)|我们走吧 = gehen wir! 你是学生吧？ = du bist Student, oder?
+问题|N|Frage; Problem|问 fragen + 题 Thema.
+药|N|Medizin, Medikament|艹 Pflanze + 约: Heilkräuter.
+别|Adv|nicht (Verbot)|别去 = geh nicht! 别着急 = keine Eile.
+两|Zahl|zwei (vor Zählwörtern)|两个人 = zwei Personen. Beim Zählen: 二.
+睡|V|schlafen|目 Auge + 垂 herabhängen: Lider fallen zu.
+可以|Hilfsverb|können, dürfen|可 können + 以. 可以吗？ = Geht das?
+西瓜|N|Wassermelone|西 Westen + 瓜 Melone: «Melone aus dem Westen».
+便宜|Adj|billig, günstig|便 bequem + 宜 passend.
+服务员|N|Kellner, Bedienung|服务 dienen + 员 Person.
+卖|V|verkaufen|4. Ton. 买 mǎi kaufen hat oben kein 十.
+公斤|ZW|Kilogramm|公 offiziell + 斤 Pfund.
+比|Präp|als (Vergleich)|Zwei Menschen nebeneinander: vergleichen. A比B贵 = A ist teurer als B.
+孩子|N|Kind|孩 Kind + 子.
+们|Suffix|(Mehrzahl bei Personen)|亻 Mensch + 门 (Lautteil). 孩子们 = die Kinder.
+真|Adv|wirklich|真好吃 = wirklich lecker.
+公共汽车|N|Bus|公共 öffentlich + 汽车 Auto.
+车|N|Wagen, Auto, Fahrzeug|Bild eines Wagens von oben.
+晚|Adj|spät|日 Sonne + 免 (Lautteil).
+快|Adj|schnell|忄 Herz + 夬: schnell, froh.
+已经|Adv|schon, bereits|Meist mit 了: 已经走了 = ist schon weg.
+等|V|warten|竹 Bambus + 寺: Bambusstreifen ordnen; warten.
+星期|N|Woche|星 Stern + 期 Zeitspanne. 下个星期 = nächste Woche.
+黑色|N|schwarz|黑 schwarz + 色 Farbe.
+它|Pron|es (Tiere, Dinge)|Ursprünglich Bild einer Schlange. Gleich gesprochen wie 他 und 她.
+千|Zahl|tausend|五千 = 5000.
+慢|Adj|langsam|忄 Herz + 曼 (Lautteil).
+第一|Zahl|erster|第 Ordnungspräfix + 一. 第二 = zweiter.
+件|ZW|Zählwort für Kleider und Angelegenheiten|亻 Mensch + 牛 Rind. 一件衣服, 一件事.
+事|N|Sache, Angelegenheit|Hand hält einen Stab: Amt, Aufgabe.
+时间|N|Zeit|时 Zeit + 间 Zwischenraum.
+长|Adj|lang|Bild eines Menschen mit langem Haar. Als Verb zhǎng «wachsen».
+运动|N/V|Sport; Sport treiben|运 bewegen + 动 bewegen.
+跑|V|rennen|足 Fuss + 包 (Lautteil).
+星期二|N|Dienstag|星期 Woche + 二 zwei.
+同学们|N|Mitschüler (Mehrzahl)|同学 + 们.
+打篮球|V|Basketball spielen|打 schlagen, spielen + 篮球 Basketball (篮 Korb + 球 Ball).
+打|V|schlagen; spielen; anrufen|扌 Hand + 丁 Nagel: einschlagen.
+游泳|V|schwimmen|游 schwimmen + 泳 schwimmen; beide mit 氵 Wasser.
+哥哥|N|älterer Bruder|Verdoppelung von 哥.
+踢|V|treten, kicken|足 Fuss + 易 (Lautteil).
+足球|N|Fussball|足 Fuss + 球 Ball.
+对|Präp/Adj|für, gegenüber; richtig|对身体好 = gut für die Gesundheit. 对！ = Richtig!
+希望|V|hoffen|希 hoffen + 望 hinausschauen.
+下雪|V|schneien|下 herunterkommen + 雪 Schnee.
+外面|Ortswort|draussen|外 aussen + 面 Seite.
+白色|N|weiss|白 weiss + 色 Farbe.
+他们|Pron|sie (Mehrzahl)|他 er + 们.
+穿|V|anziehen, tragen|穴 Höhle + 牙 Zahn: durchbohren, hindurchschlüpfen.
+让|V|lassen, auffordern|讠 Rede + 上. 让他们穿 = sie anziehen lassen.
+出去|V|hinausgehen|出 hinaus + 去 weg.
+雪|N|Schnee|雨 Regen + 彐 Hand: was man vom Himmel greifen kann.
+路|N|Weg, Strasse|足 Fuss + 各 (Lautteil). 路上 = unterwegs.
+没有|V/Adv|nicht haben; es gibt nicht; nicht (Vergangenheit)|没 + 有.
+问路|V|nach dem Weg fragen|问 fragen + 路 Weg.
+知道|V|wissen|知 wissen (矢 Pfeil + 口 Mund) + 道 Weg.
+男人|N|Mann|男 Mann (田 Feld + 力 Kraft: wer auf dem Feld arbeitet) + 人.
+您|Pron|Sie (höflich)|你 du + 心 Herz: «du, von Herzen».
+请问|Ausdruck|Entschuldigung, darf ich fragen|请 bitte + 问 fragen.
+店|N|Laden, Geschäft|广 Gebäude + 占 (Lautteil).
+这儿|Pron|hier|这 dies + 儿. Auch 这里.
+向|Präp|nach, in Richtung|向前走 = geradeaus gehen.
+前|Ortswort|vorn; vor (Zeit)|十年前 = vor zehn Jahren.
+第二|Zahl|zweiter|第 + 二.
+路口|N|Kreuzung|路 Strasse + 口 Öffnung.
+右|Ortswort|rechts|Hand + 口: die Hand, mit der man isst.
+近|Adj|nah|辶 gehen + 斤 (Lautteil).
+欢迎|V|willkommen heissen|欢 Freude + 迎 entgegengehen.
+右边|Ortswort|rechte Seite|右 rechts + 边 Seite.
+点菜|V|Essen bestellen|点 auswählen + 菜 Gericht.
+妻子|N|Ehefrau|妻 Ehefrau + 子.
+进|V|eintreten|辶 gehen + 井. 请进！ = Herein!
+门|N|Tür, Tor|Bild einer Doppeltür.
+旁边|Ortswort|neben, daneben|旁 Seite + 边 Rand.
+鱼|N|Fisch|Bild eines Fisches mit Kopf, Schuppen und Schwanz.
+完|V|fertig sein|宀 Dach + 元: vollständig. 吃完 = fertig gegessen.
+元|ZW|Yuan (schriftlich)|Mensch mit betontem Kopf: «Anfang».
+再|Adv|wieder, nochmals; dann|下次再来 = nächstes Mal wiederkommen.
+家人|N|Familienangehörige|家 Familie + 人.
+考试|N/V|Prüfung; eine Prüfung ablegen|考 prüfen + 试 versuchen.
+大学|N|Universität|大 gross + 学 Schule. 上大学 = studieren.
+考|V|eine Prüfung ablegen|考得很好 = gut abschneiden.
+课文|N|Lektionstext|课 Lektion + 文 Text.
+题|N|Aufgabe, Frage|页 Kopf + 是: «Thema».
+有的|Pron|manche|有的…有的… = manche…, andere…
+懂|V|verstehen|忄 Herz + 董 (Lautteil). 听懂 = hörend verstehen.
+告诉|V|mitteilen, sagen|告 melden + 诉 erzählen. 告诉我 = sag mir.
+那天|N|jener Tag|那 jenes + 天 Tag.
+开始|V|beginnen|开 öffnen + 始 Anfang.
+咖啡|N|Kaffee|Lautumschrift von «Kaffee», beide mit 口.
+房间|N|Zimmer|房 Haus + 间 Raum.
+左边|Ortswort|linke Seite|左 links + 边 Seite.
+张|ZW/Name|Zählwort für Flaches (Tisch, Bett, Foto); Familienname Zhang|弓 Bogen + 长: den Bogen spannen.
+床|N|Bett|广 Gebäude + 木 Holz.
+红色|N|rot|红 rot + 色 Farbe.
+小红|Name|Xiaohong|Vorname: 小 klein + 红 rot.
+过|V/Part|verbringen; vorbeigehen; (schon einmal getan)|过生日 = Geburtstag feiern. 送过 = schon einmal geschenkt.
+红|Adj|rot|纟 Seide + 工: rot gefärbte Seide.
+唱|V|singen|口 Mund + 昌 (Lautteil).
+帮助|V|helfen|帮 helfen + 助 helfen.
+机场|N|Flughafen|机 Flugzeug + 场 Platz.
+白|Adj|weiss|Bild eines Reiskorns oder der aufgehenden Sonne.
+票|N|Fahrkarte, Ticket|飞机票 = Flugticket.
+教室|N|Klassenzimmer|教 lehren + 室 Raum.
+课|N|Unterricht, Lektion|讠 Rede + 果. 上课 = Unterricht haben.
+上课|V|Unterricht haben|上 hingehen + 课 Lektion.
+回答|V|antworten|回 zurück + 答 antworten.
+错|Adj|falsch|钅 Metall + 昔. 说错 = sich versprechen.
+姐姐|N|ältere Schwester|女 Frau + 且 (Lautteil).
+弟弟|N|jüngerer Bruder|Bild einer umwickelten Waffe: Reihenfolge, der Jüngere.
+眼睛|N|Auge|眼 Auge + 睛 Pupille; beide mit 目 Auge.
+每|Pron|jeder|每个星期 = jede Woche.
+姓|V|mit Familiennamen heissen|女 Frau + 生 geboren: Familienname kam von der Mutter. 我姓王.
+介绍|V|vorstellen|介 vermitteln + 绍 fortsetzen.
+女人|N|Frau|女 Frau + 人.
+游|V|schwimmen|氵 Wasser + 斿.
+找|V|suchen|扌 Hand + 戈. 找到 = finden.
+进来|V|hereinkommen|进 eintreten + 来 her.
+早饭|N|Frühstück|早 früh + 饭 Mahlzeit.
+有时候|Adv|manchmal|有 es gibt + 时候 Zeiten.
+一家人|N|die ganze Familie|一 ganz + 家人 Familie.
+杭州|Name|Hangzhou|Stadt in Ostchina, bekannt für den Westsee.
+西湖|Name|Westsee|西 Westen + 湖 See. Berühmter See in Hangzhou.
+晴|Adj|sonnig|日 Sonne + 青 (Lautteil). 晴天 = sonniger Tag.
+颜色|N|Farbe|颜 Gesicht + 色 Farbe.
+新年|N|Neujahr|新 neu + 年 Jahr. 新年快乐 = frohes neues Jahr.
+洗|V|waschen|氵 Wasser + 先 (Lautteil).
+一下|ZW|einmal, kurz|Nach dem Verb macht es die Handlung kurz und höflich: 看一下 = kurz anschauen.
+那|Pron|jenes, das; dann|那是… = das ist…
+意思|N|Bedeutung; Spass|意 Sinn + 思 denken. 什么意思？ = Was bedeutet das?
+搬家|V|umziehen|搬 tragen + 家 Wohnung.
+城市|N|Stadt|城 Stadtmauer + 市 Markt.
+北边|Ortswort|Norden, nördliche Seite|北 Norden + 边 Seite.
+搬|V|tragen, verschieben; umziehen|扌 Hand + 般 (Lautteil).
+南边|Ortswort|Süden, südliche Seite|南 Süden + 边 Seite.
+以前|N|früher, vorher|以 + 前 vorn. 来中国以前 = bevor ich nach China kam.
+房子|N|Haus, Wohnung|房 Haus + 子.
+地铁|N|U-Bahn|地 Erde + 铁 Eisen: «Eisenbahn unter der Erde».
+安静|Adj|ruhig, still|安 friedlich + 静 still.
+街道|N|Strasse|街 Strasse + 道 Weg.
+附近|N|Nähe, in der Nähe|附 angrenzen + 近 nah.
+超市|N|Supermarkt|超 übertreffen + 市 Markt: Kurzform von 超级市场.
+银行|N|Bank|银 Silber + 行 Geschäft.
+公园|N|Park|公 öffentlich + 园 Garten.
+特别|Adv/Adj|besonders|特 besonders + 别 anders.
+冰箱|N|Kühlschrank|冰 Eis + 箱 Kiste.
+空调|N|Klimaanlage|空 Luft + 调 regeln.
+还有|Konj|ausserdem, und noch|还 noch + 有 haben.
+同事|N|Arbeitskollege|同 gleich + 事 Arbeit.
+帮忙|V|helfen|帮 helfen + 忙 Beschäftigung. 帮我的忙 = mir helfen.
+小心|Adj|vorsichtig|小 klein + 心 Herz: «mit kleinem, feinem Herzen».
+层|ZW|Stockwerk|尸 + 云. 八层 = achter Stock.
+还好|Ausdruck|zum Glück; nicht schlecht|还 noch + 好 gut.
+楼|N|Gebäude, Haus mit Stockwerken|木 Holz + 娄 (Lautteil).
+电梯|N|Lift|电 Elektrizität + 梯 Leiter.
+又|Adv|wieder; zudem|又…又… = sowohl… als auch…: 又快又便宜.
+饿|Adj|hungrig|饣 Essen + 我 (Lautteil).
+面条|N|Nudeln|面 Mehl + 条 Streifen.
+啤酒|N|Bier|啤 (Lautumschrift «Bier») + 酒 Alkohol.
+打扫|V|putzen, sauber machen|打 + 扫 fegen.
+终于|Adv|endlich|终 Ende + 于.
+放|V|legen, stellen|攵 Hand mit Stock + 方 (Lautteil).
+站|V/N|stehen; Station|立 stehen + 占 (Lautteil). 地铁站 = U-Bahn-Station.
+中间|Ortswort|Mitte|中 Mitte + 间 Zwischenraum.
+这里|Pron|hier|这 dies + 里 Ort.
+满意|Adj|zufrieden|满 voll + 意 Sinn.
+因为|Konj|weil|因为…所以… = weil…, deshalb…
+只|Adv/ZW|nur; Zählwort für Tiere|zhǐ «nur»: 只要十分钟. zhī als Zählwort: 一只熊猫.
+虽然|Konj|obwohl|虽然…但是… = obwohl…, (aber)…
+邻居|N|Nachbar|邻 benachbart + 居 wohnen.
+老|Adj|alt|Bild eines alten Menschen mit Stock. 老王 = der alte Wang (vertraut).
+位|ZW|höfliches Zählwort für Personen|亻 Mensch + 立 stehen: Platz, an dem jemand steht.
+奶奶|N|Grossmutter (väterlicherseits)|女 Frau + 乃.
+健康|Adj/N|gesund; Gesundheit|健 kräftig + 康 gesund.
+锻炼|V|trainieren|锻 schmieden + 炼 läutern; beide mit Metall und Feuer.
+经常|Adv|oft|经 regelmässig + 常 häufig.
+年轻|Adj|jung|年 Jahr + 轻 leicht: «leicht an Jahren».
+刚|Adv|gerade eben|刂 Messer + 冈. 刚结婚 = frisch verheiratet.
+结婚|V|heiraten|结 knüpfen + 婚 Ehe.
+司机|N|Fahrer, Chauffeur|司 leiten + 机 Maschine.
+热情|Adj|herzlich, gastfreundlich|热 warm + 情 Gefühl.
+见面|V|sich treffen|见 sehen + 面 Gesicht.
+总是|Adv|immer|总 stets + 是.
+跟|Präp|mit|足 Fuss + 艮: ursprünglich «Ferse, folgen». 跟我说 = zu mir sagen.
+楼上|Ortswort|oben im Haus|楼 Gebäude + 上 oben.
+男孩子|N|Junge|男 männlich + 孩子 Kind.
+聪明|Adj|klug, gescheit|聪 gutes Gehör + 明 klarer Blick.
+声音|N|Stimme; Ton, Lärm|声 Laut + 音 Klang.
+不好意思|Ausdruck|peinlich; Entschuldigung|不 nicht + 好意思 sich trauen: «es ist mir unangenehm».
+一定|Adv|bestimmt, unbedingt|一 + 定 fest.
+以后|N|danach; später, künftig|以 + 后 hinten. 回家以后 = nach dem Heimkommen.
+画|V/N|malen; Bild|Hand mit Pinsel über einem Feld.
+太阳|N|Sonne|太 sehr + 阳 Sonnenseite.
+这样|Pron|so, solch|这 dies + 样 Art.
+周末|N|Wochenende|周 Woche + 末 Ende.
+爬山|V|wandern, auf einen Berg steigen|爬 klettern + 山 Berg.
+决定|V/N|beschliessen; Entscheidung|决 entscheiden + 定 festlegen.
+山|N|Berg|Bild von drei Berggipfeln.
+西边|Ortswort|Westen, westliche Seite|西 Westen + 边 Seite.
+带|V|mitnehmen; bringen|Bild eines Gürtels mit Anhängern.
+面包|N|Brot|面 Mehl + 包 Paket.
+树|N|Baum|木 Baum + 对 (Lautteil).
+空气|N|Luft|空 leer + 气 Luft.
+新鲜|Adj|frisch|新 neu + 鲜 frisch (鱼 Fisch + 羊 Schaf).
+爬|V|klettern, steigen|爪 Klaue + 巴 (Lautteil).
+一边|Adv|gleichzeitig|一边…一边… = …und dabei…: 一边吃一边看.
+腿|N|Bein|月 (Körper) + 退 (Lautteil).
+疼|Adj|schmerzen, wehtun|疒 Krankheit + 冬 (Lautteil).
+小王|Name|Xiao Wang|小 vor Familiennamen: vertraute Anrede für Jüngere.
+着急|Adj|aufgeregt, in Eile|着 berühren + 急 eilig. 别着急 = keine Eile.
+慢慢|Adv|langsam, allmählich|Verdoppelung von 慢 langsam.
+一会儿|N|eine Weile, kurz|一 + 会 Moment + 儿.
+脚|N|Fuss|月 (Körper) + 却 (Lautteil).
+照|V|fotografieren; scheinen|灬 Feuer + 昭 hell. 照相 = fotografieren.
+照片|N|Foto|照 abbilden + 片 Blatt.
+心里|N|im Herzen, innerlich|心 Herz + 里 innen.
+下山|V|vom Berg absteigen|下 hinunter + 山 Berg.
+上山|V|auf den Berg steigen|上 hinauf + 山 Berg.
+容易|Adj|leicht, einfach|容 aufnehmen + 易 leicht.
+下来|V|herunterkommen|下 hinunter + 来 her.
+洗澡|V|baden, duschen|洗 waschen + 澡 baden.
+有意思|Adj|interessant, lustig|有 haben + 意思 Sinn.
+换|V|wechseln, tauschen|扌 Hand + 奂 (Lautteil). 换钱 = Geld wechseln.
+宾馆|N|Hotel|宾 Gast + 馆 Gebäude.
+开门|V|öffnen (Geschäft)|开 öffnen + 门 Tür.
+里面|Ortswort|drinnen|里 innen + 面 Seite.
+拿|V|nehmen, holen, halten|合 zusammen + 手 Hand.
+帮|V|helfen|帮我 = mir helfen.
+需要|V|brauchen|需 benötigen + 要 wollen.
+把|Präp/ZW|(Objekt vorangestellt); Zählwort für Griffiges|把护照给她 = ihr den Pass geben. 一把伞 = ein Schirm.
+瑞士法郎|N|Schweizer Franken|瑞士 Schweiz + 法郎 (Lautumschrift «Franc»).
+成|V|werden zu|换成 = umtauschen in, 说成 = falsch sagen als.
+人民币|N|Renminbi (chinesische Währung)|人民 Volk + 币 Geld: «Volksgeld».
+护照|N|Pass|护 schützen + 照 Bescheinigung.
+检查|V|prüfen, untersuchen|检 kontrollieren + 查 nachsehen.
+用|V/Präp|benutzen; mit|用手机 = mit dem Handy. 不用 = nicht nötig.
+办法|N|Methode, Lösung, Weg|办 erledigen + 法 Methode.
+方便|Adj|praktisch, bequem|方 Richtung + 便 bequem.
+离开|V|verlassen, weggehen|离 sich trennen + 开 weg.
+感冒|V/N|sich erkälten; Erkältung|感 spüren + 冒 ausbrechen.
+变化|N/V|Veränderung; sich verändern|变 ändern + 化 verwandeln.
+突然|Adv|plötzlich|突 hervorbrechen + 然.
+度|ZW|Grad|三十八度 = 38 Grad.
+变成|V|werden zu|变 ändern + 成 werden.
+注意|V|aufpassen, beachten|注 richten auf + 意 Aufmerksamkeit.
+头|N|Kopf|头疼 = Kopfschmerzen.
+鼻子|N|Nase|鼻 Nase (自 ursprünglich Bild einer Nase) + 子.
+舒服|Adj|bequem, wohl|舒 entspannt + 服 passend. 不舒服 = unwohl.
+发现|V|entdecken, merken|发 hervorbringen + 现 erscheinen.
+自己|Pron|selbst, sich|自 selbst + 己 eigen.
+发烧|V|Fieber haben|发 bekommen + 烧 brennen.
+经理|N|Manager, Chef|经 leiten + 理 verwalten.
+好好|Adv|gut, ordentlich|Verdoppelung: 好好休息 = erhol dich gut.
+重要|Adj|wichtig|重 schwer + 要 wichtig.
+马上|Adv|sofort|马 Pferd + 上 auf: «aufs Pferd und los».
+如果|Konj|wenn, falls|如果…就… = wenn…, dann…
+碗|N|Schüssel, Schale|石 Stein + 宛. 一碗面条 = eine Schüssel Nudeln.
+一直|Adv|die ganze Zeit; geradeaus|一 + 直 gerade.
+第三|Zahl|dritter|第 + 三.
+还是|Adv/Konj|trotzdem, noch immer; oder (Frage)|还是有点儿累 = noch immer etwas müde.
+有点儿|Adv|ein bisschen (meist negativ)|有点儿累 = etwas müde.
+关心|V|sich kümmern um|关 betreffen + 心 Herz.
+出门|V|aus dem Haus gehen|出 hinaus + 门 Tür.
+先|Adv|zuerst|先…然后… = zuerst…, dann…
+香蕉|N|Banane|香 duftend + 蕉 Bananenpflanze.
+葡萄|N|Traube|Beide Zeichen mit 艹 Pflanze, Lautumschrift.
+然后|Konj|dann, danach|然 so + 后 nachher.
+蛋糕|N|Kuchen|蛋 Ei + 糕 Kuchen.
+糖|N|Zucker; Süssigkeit|米 Reis + 唐 (Lautteil).
+同意|V|zustimmen|同 gleich + 意 Meinung.
+甜|Adj|süss|舌 Zunge + 甘 süss.
+越|Adv|je…desto|越买越多 = je mehr man kauft, desto mehr wird es.
+最后|N|zuletzt, am Ende|最 am meisten + 后 hinten.
+一共|Adv|insgesamt|一 + 共 zusammen.
+花|N/V|Blume; ausgeben (Geld, Zeit)|艹 Pflanze + 化 verwandeln. 花钱 = Geld ausgeben.
+包|N|Tasche|Bild eines Kindes im Mutterleib: einwickeln.
+爱好|N|Hobby|爱 lieben + 好 hào gern haben.
+音乐|N|Musik|音 Klang + 乐 yuè Musik.
+照相|V|fotografieren|照 abbilden + 相 Bild.
+兴趣|N|Interesse|兴 Lust + 趣 Reiz. 对…有兴趣 = sich interessieren für.
+难|Adj|schwierig|又 Hand + 隹 Vogel: einen Vogel fangen ist schwer.
+练习|V|üben|练 üben + 习 üben.
+哭|V|weinen|Zwei 口 (Augen) über 犬: Tränen.
+学|V|lernen|Kind 子 unter einem Dach lernt. 学会 = erlernen.
+努力|Adj|fleissig, sich anstrengen|努 anstrengen + 力 Kraft.
+遇到|V|begegnen, antreffen|遇 begegnen + 到.
+话|N|Worte, Rede|讠 Rede + 舌 Zunge.
+节目|N|Programm, Darbietung|节 Abschnitt + 目 Liste.
+表演|V|auftreten, vorführen|表 zeigen + 演 spielen.
+照相机|N|Kamera|照相 fotografieren + 机 Gerät.
+鸟|N|Vogel|Bild eines Vogels.
+老人|N|alter Mensch|老 alt + 人.
+记得|V|sich erinnern|记 merken + 得.
+越来越|Adv|immer mehr|越来越好 = immer besser.
+机会|N|Gelegenheit|机 Anlass + 会 Treffen.
+国家|N|Land, Staat|国 Land + 家 Familie.
+更|Adv|noch mehr|更多 = noch mehr, 更好 = noch besser.
+普通话|N|Hochchinesisch|普通 allgemein + 话 Sprache: «allgemeine Sprache».
+比较|Adv|vergleichsweise, ziemlich|比 vergleichen + 较 vergleichen.
+四|Zahl|vier|Ursprünglich vier Striche, heute 囗 mit 儿.
+声调|N|Ton (der Silbe)|声 Laut + 调 Melodie. Hochchinesisch hat vier Töne und einen neutralen Ton.
+水饺|N|Teigtaschen (gekocht)|水 Wasser + 饺 Teigtasche. Achtung: shuǐjiǎo, nicht shuìjiào (睡觉 schlafen)!
+为了|Präp|um zu, für|为了提高水平 = um das Niveau zu verbessern.
+提高|V|verbessern, erhöhen|提 heben + 高 hoch.
+水平|N|Niveau|水 Wasser + 平 eben: «Wasserspiegel».
+中文|N|Chinesisch (Sprache, Schrift)|中 China + 文 Schrift.
+新闻|N|Nachrichten|新 neu + 闻 hören.
+复习|V|wiederholen|复 wieder + 习 üben.
+说话|V|sprechen, reden|说 sagen + 话 Worte.
+词语|N|Wörter, Ausdrücke|词 Wort + 语 Sprache.
+一半|N|Hälfte|一 + 半 halb.
+相信|V|glauben, vertrauen|相 gegenseitig + 信 Vertrauen.
+认真|Adj|ernsthaft, gewissenhaft|认 anerkennen + 真 echt.
+打算|V|vorhaben, planen|打 + 算 rechnen.
+参加|V|teilnehmen|参 teilnehmen + 加 hinzufügen.
+高|Adj|hoch, gross|Bild eines hohen Turms.
+季节|N|Jahreszeit|季 Saison + 节 Abschnitt.
+春|N|Frühling|Pflanzen sprossen unter der Sonne 日.
+夏|N|Sommer|Ursprünglich Bild eines Menschen.
+秋|N|Herbst|禾 Getreide + 火 Feuer: reifes Korn.
+冬|N|Winter|Ursprünglich Bild eines Fadens mit Knoten: Ende des Jahres; unten zwei Punkte = Eis.
+一样|Adj|gleich|一 + 样 Art. 跟我一样 = wie ich.
+春天|N|Frühling|春 + 天.
+风|N|Wind|Ein Segel 几 mit etwas darin.
+刮|V|wehen (Wind)|舌 + 刂 Messer: kratzen. 刮风 = windig sein.
+大风|N|starker Wind, Sturm|大 gross + 风 Wind.
+夏天|N|Sommer|夏 + 天.
+冰|N/Adj|Eis; eisgekühlt|冫 Eis + 水 Wasser.
+秋天|N|Herbst|秋 + 天.
+蓝|Adj|blau|艹 Pflanze + 监: aus Indigo-Pflanzen.
+黄色|N|gelb|黄 gelb + 色 Farbe.
+冬天|N|Winter|冬 + 天.
+大人|N|Erwachsener|大 gross + 人.
+哪里|Fragewort|wo|哪 + 里 Ort. Gleich wie 哪儿.
+图书馆|N|Bibliothek|图书 Bücher + 馆 Gebäude.
+外国|N|Ausland|外 aussen + 国 Land.
+大声|Adv|laut|大 gross + 声 Stimme.
+关于|Präp|über, betreffend|关于中国历史 = über chinesische Geschichte.
+历史|N|Geschichte|历 durchlaufen + 史 Chronik.
+作业|N|Hausaufgabe, Arbeit|作 machen + 业 Aufgabe.
+了解|V|kennen, verstehen|了 klar + 解 lösen.
+应该|Hilfsverb|sollen|应 entsprechen + 该 müssen.
+选择|V|wählen|选 auswählen + 择 auswählen.
+这时候|N|in diesem Moment|这 + 时候 Zeitpunkt.
+阿姨|N|Tante; Anrede für Frau mittleren Alters|阿 (Anredevorsilbe) + 姨 Tante.
+过来|V|herüberkommen|过 hinüber + 来 her.
+简单|Adj|einfach|简 knapp + 单 einfach.
+借|V|leihen, ausleihen|亻 Mensch + 昔 (Lautteil). 借给你 = dir leihen.
+地|Part|(macht Adjektiv zum Adverb)|de: 认真地读 = aufmerksam lesen. dì: Erde, Boden.
+有名|Adj|berühmt|有 haben + 名 Name.
+故事|N|Geschichte, Erzählung|故 alt + 事 Sache.
+礼物|N|Geschenk|礼 Ritual + 物 Ding.
+条|ZW|Zählwort für Langes (Rock, Fluss, Strasse)|一条河 = ein Fluss.
+裙子|N|Rock, Kleid|衤 Kleid + 君 (Lautteil).
+地方|N|Ort, Stelle|地 Boden + 方 Richtung.
+上网|V|ins Internet gehen|上 hinauf + 网 Netz.
+河|N|Fluss|氵 Wasser + 可 (Lautteil).
+环境|N|Umgebung; Umwelt|环 Ring + 境 Grenze.
+厨房|N|Küche|厨 Küche + 房 Raum.
+干净|Adj|sauber|干 trocken + 净 rein.
+明白|V/Adj|verstehen; klar|明 hell + 白 klar.
+好看|Adj|schön, hübsch|好 gut + 看 schauen: «gut anzusehen».
+会议|N|Sitzung, Konferenz|会 Treffen + 议 beraten.
+地图|N|Landkarte, Plan|地 Erde + 图 Bild.
+几乎|Adv|fast|几 beinahe + 乎.
+叔叔|N|Onkel; Anrede für Mann mittleren Alters|又 Hand + 尗.
+担心|V|sich Sorgen machen|担 tragen + 心 Herz.
+迟到|V|zu spät kommen|迟 spät + 到 ankommen.
+习惯|V/N|sich gewöhnen; Gewohnheit|习 üben + 惯 gewohnt.
+爷爷|N|Grossvater (väterlicherseits)|父 Vater + 耶 (Lautteil).
+讲|V|erzählen, erklären|讠 Rede + 井 (Lautteil).
+那时候|N|damals|那 + 时候 Zeit.
+骑|V|reiten, Velo fahren|马 Pferd + 奇 (Lautteil).
+自行车|N|Velo, Fahrrad|自 selbst + 行 fahren + 车 Wagen.
+人们|N|die Leute|人 + 们.
+汽车|N|Auto|汽 Dampf + 车 Wagen.
+关系|N|Beziehung|关 verbinden + 系 Faden.
+游戏|N|Spiel|游 spielen + 戏 Spiel.
+肉|N|Fleisch|Bild eines Fleischstücks mit Fasern.
+或者|Konj|oder (Aussage)|In Fragen steht 还是.
+过去|V|vergehen; hinübergehen|过 vorbei + 去 weg.
+瘦|Adj|dünn, schlank|疒 Krankheit + 叟: abgemagert. 瘦了 = abgenommen.
+南方|N|Süden|南 Süden + 方 Gegend.
+数学|N|Mathematik|数 zählen + 学 Lehre.
+河边|N|Flussufer|河 Fluss + 边 Rand.
+照顾|V|sich kümmern um|照 versorgen + 顾 beachten.
+花园|N|Garten|花 Blume + 园 Garten.
+怕|V|fürchten|忄 Herz + 白 (Lautteil).
+月亮|N|Mond|月 Mond + 亮 hell.
+开会|V|eine Sitzung abhalten|开 eröffnen + 会 Sitzung.
+会议室|N|Sitzungszimmer|会议 Sitzung + 室 Raum.
+害怕|V|Angst haben|害 schaden + 怕 fürchten.
+起|V|aufstehen; (Ergebnis)|想起 = sich erinnern an.
+句|ZW|Satz (Zählwort)|一句一句 = Satz für Satz.
+结束|V|enden|结 knüpfen + 束 binden.
+这么|Pron|so|这么好 = so gut.
+熊猫|N|Panda|熊 Bär + 猫 Katze: «Bärkatze».
+动物|N|Tier|动 bewegen + 物 Ding: «was sich bewegt».
+它们|Pron|sie (Tiere, Dinge)|它 es + 们.
+耳朵|N|Ohr|耳 Bild eines Ohrs + 朵.
+胖|Adj|dick|月 Körper + 半 (Lautteil).
+看起来|V|aussehen, scheinen|看 schauen + 起来.
+可爱|Adj|niedlich, liebenswert|可 können + 爱 lieben: «liebenswert».
+世界|N|Welt|世 Generation + 界 Grenze.
+成都|Name|Chengdu|Hauptstadt von Sichuan, bekannt für Pandas.
+上面|Ortswort|oben, auf|上 oben + 面 Seite.
+睡着|V|einschlafen|睡 schlafen + 着 zháo (Erfolg).
+出|V|hinaus, heraus|Bild eines Fusses, der aus einer Höhle tritt. 拿出 = herausnehmen.
+中秋节|N|Mondfest (Mittherbstfest)|中 Mitte + 秋 Herbst + 节 Fest. Am 15. Tag des 8. Mondmonats.
+节日|N|Fest, Feiertag|节 Fest + 日 Tag.
+一般|Adv|normalerweise|一 + 般 Art.
+过节|V|ein Fest feiern|过 verbringen + 节 Fest.
+月饼|N|Mondkuchen|月 Mond + 饼 Gebäck.
+种|ZW|Sorte, Art|禾 Getreide + 中. 很多种 = viele Sorten.
+小李|Name|Xiao Li|小 + Familienname 李: vertraute Anrede.
+电话|N|Telefon; Telefonnummer|电 Elektrizität + 话 Rede.
+出国|V|ins Ausland gehen|出 hinaus + 国 Land.
+日本|Name|Japan|日 Sonne + 本 Ursprung: «Land der aufgehenden Sonne».
+行李箱|N|Koffer|行李 Gepäck + 箱 Kiste.
+鞋|N|Schuh|革 Leder + 圭 (Lautteil).
+帽子|N|Hut, Mütze|巾 Tuch + 冒.
+不见|V|verschwunden sein|不 nicht + 见 sehen.
+出来|V|herauskommen|出 hinaus + 来 her.
+才|Adv|erst; erst dann|十点才起床 = erst um zehn aufstehen.
+放心|V|beruhigt sein|放 loslassen + 心 Herz.
+伞|N|Schirm|Bild eines aufgespannten Schirms.
+门口|N|Eingang|门 Tür + 口 Öffnung.
+正在|Adv|gerade (dabei)|正在下雨 = es regnet gerade.
+雨|N|Regen|Bild von Tropfen unter einer Wolke.
+怎么办|Ausdruck|was tun?|怎么 wie + 办 erledigen.
+女孩子|N|Mädchen, junge Frau|女 weiblich + 孩子 Kind.
+啊|Part|(Ausruf, Bestätigung)|是啊 = ja, genau.
+忘记|V|vergessen|忘 vergessen (亡 verloren + 心 Herz) + 记 merken.
+行|Adj|in Ordnung, geht|就行 = genügt, geht.
+见到|V|treffen, sehen|见 sehen + 到 (Erfolg).
+第四|Zahl|vierter|第 + 四.
+教|V|lehren, beibringen|jiāo: 教我说汉语. jiào in 教室.
+进去|V|hineingehen|进 hinein + 去 hin.
+双|ZW|Paar|Ursprünglich zwei Vögel in einer Hand. 一双筷子 = ein Paar Stäbchen.
+筷子|N|Essstäbchen|竹 Bambus + 快 schnell.
+不错|Adj|nicht schlecht, gut|不 nicht + 错 falsch.
+办公室|N|Büro|办公 Amtsgeschäfte + 室 Raum.
+要求|N/V|Anforderung; verlangen|要 wollen + 求 bitten.
+生气|V|sich ärgern|生 erzeugen + 气 Zorn.
+解决|V|lösen|解 lösen + 决 entscheiden.
+老王|Name|Lao Wang|老 + Familienname: vertraute Anrede für Ältere.
+旧|Adj|alt (Dinge)|Gegenteil: 新 neu.
+蓝色|N|blau|蓝 blau + 色 Farbe.
+运动鞋|N|Turnschuhe|运动 Sport + 鞋 Schuh.
+裤子|N|Hose|衤 Kleid + 库.
+衬衫|N|Hemd|衬 unterlegen + 衫 Hemd.
+年轻人|N|junge Leute|年轻 jung + 人.
+太极拳|N|Taiji (Schattenboxen)|太极 «höchstes Prinzip» + 拳 Faust.
+地上|N|auf dem Boden|地 Boden + 上.
+为什么|Fragewort|warum|为 für + 什么 was.
+而且|Konj|ausserdem, zudem|不但…而且… = nicht nur…, sondern auch…
+干|Adj|trocken|gān. Als gàn «tun».
+接|V|annehmen, abholen|扌 Hand + 妾. 接电话 = Anruf annehmen.
+极|Adv|äusserst|高兴极了 = überglücklich.
+客人|N|Gast|客 Gast + 人.
+呢|Part|(Fragepartikel, weiterführend)|你呢？ = und du?
+开车|V|Auto fahren|开 fahren + 车 Auto.
+辆|ZW|Zählwort für Fahrzeuge|车 Fahrzeug + 两.
+公里|ZW|Kilometer|公 offiziell + 里 Meile.
+经过|V|vorbeikommen an|经 durchgehen + 过 vorbei.
+绿|Adj|grün|纟 Seide + 录.
+奇怪|Adj|seltsam|奇 merkwürdig + 怪 sonderbar.
+年级|N|Klasse, Jahrgang|年 Jahr + 级 Stufe.
+最近|N|in letzter Zeit|最 am meisten + 近 nah.
+电子|Adj|elektronisch|电 Elektrizität + 子 Teilchen.
+成绩|N|Noten, Leistung|成 Erfolg + 绩 Leistung.
+差|Adj|schlecht, schwach|chà. 越来越差 = immer schlechter.
+的话|Part|falls|…的话 = wenn…: 不玩的话 = wenn ich nicht spiele.
+来到|V|ankommen in|来 kommen + 到 ankommen.
+别人|Pron|andere Leute|别 anders + 人.
+文化|N|Kultur|文 Schrift + 化 verwandeln.
+信|N|Brief|亻 Mensch + 言 Wort: Wort halten, Vertrauen. 写信 = einen Brief schreiben.
+不知道|Ausdruck|nicht wissen; ich frage mich|不 + 知道 wissen.
+小时候|N|Kindheit|小 klein + 时候 Zeit.
+祝|V|wünschen|礻 Altar + 兄: beten. 祝你健康 = ich wünsche dir Gesundheit.
+一个|Zahl+ZW|ein, eine|一 eins + 个 Zählwort. 一 wird vor 个 (eigentlich 4. Ton) zum 2. Ton: yí ge.
+七点|Zeit|sieben Uhr|七 sieben + 点 Punkt, Uhr. 几点？ = Wie spät?
+下次|N|nächstes Mal|下 unten, nächst + 次 Mal. Gegenteil: 上次 = letztes Mal.
+二十|Zahl|zwanzig|二 zwei + 十 zehn: «zwei Zehner».
+可是|Konj|aber|可 können + 是 sein. Bedeutet wie 但是 «aber».
+吃不了|V|nicht essen können (zu viel, zu scharf)|吃 essen + 不 nicht + 了 liǎo «schaffen». Muster Verb + 不了 = etwas nicht schaffen.
+吃完|V|aufessen, fertig essen|吃 essen + 完 fertig. Verb + 完 = etwas zu Ende tun.
+开心|Adj|fröhlich, glücklich|开 öffnen + 心 Herz: «das Herz geht auf».
+有空|V|Zeit haben, frei sein|有 haben + 空 kòng «freie Zeit, Lücke».
+火锅|N|Feuertopf (Hotpot)|火 Feuer + 锅 Topf: ein Topf köchelt am Tisch, jeder gart sein Essen selbst.
+茶馆|N|Teehaus|茶 Tee + 馆 Lokal, Gebäude.
+请客|V|einladen, die Rechnung übernehmen|请 einladen + 客 Gast: «den Gast bewirten».
+路上|N|unterwegs, auf der Strasse|路 Weg + 上 auf.
+辣|Adj|scharf (Geschmack)|辛 scharf, bitter + 剌 (Lautteil). 太辣了 = zu scharf.
+你好|Ausdruck|hallo, guten Tag|你 du + 好 gut: «dir gut». Häufigste Begrüssung.
+马库斯|Name|Markus|Lautumschrift: 马 Pferd, 库 Lager, 斯 (Lautzeichen). Bedeutung der Zeichen spielt keine Rolle.
+瑞士人|N|Schweizer, Schweizerin|瑞士 Schweiz + 人 Mensch: «Mensch aus der Schweiz».
+苏黎世|Name|Zürich|Lautumschrift: 苏 wiederbeleben, 黎 zahlreich, 世 Welt.
+感兴趣|V|sich interessieren|感 fühlen + 兴趣 Interesse. 对…感兴趣 = sich für … interessieren.
+微信|N|WeChat|微 klein, winzig + 信 Brief, Nachricht: «kleine Nachricht».
+加|V|hinzufügen; (Kontakt) hinzufügen|力 Kraft + 口 Mund: mit Worten Kraft hinzufügen. 加微信 = auf WeChat verbinden.
+口|ZW/N|Mund; Zählwort für Familienmitglieder|Bild eines offenen Mundes. 四口人 = vier Personen (jeder ein Mund zum Füttern).
+太太|N|Ehefrau; Frau (Anrede)|太 sehr, gross, verdoppelt: ursprünglich Anrede für die Dame des Hauses.
+父母|N|Eltern|父 Vater + 母 Mutter.
+常常|Adv|oft|常 häufig, verdoppelt zur Verstärkung.
+代|V|vertreten, an Stelle von|亻 Mensch + 弋 (Lautteil). 代我问好 = grüss in meinem Namen.
+全家福|N|Familienfoto|全 ganz + 家 Familie + 福 Glück: «Glück der ganzen Familie».
+点儿|ZW|ein bisschen|点 Punkt + 儿 (Endung, Peking). Kurz für 一点儿.
+做好|V|fertig machen, gut erledigen|做 machen + 好 gut, fertig. Verb + 好 = abgeschlossen.
+客气|Adj|höflich, förmlich|客 Gast + 气 Luft, Art: «Art eines Gastes». 别客气 = keine Umstände!
+吃饱|V|satt essen|吃 essen + 饱 satt. 吃饱了 = ich bin satt.
+叉子|N|Gabel|叉 Gabel (Bild einer Hand mit Zinken) + 子 (Endsilbe).
+干杯|Ausdruck|Prost!|干 trocken + 杯 Becher: «Becher leeren».
+招待|V|bewirten, empfangen|招 winken, einladen + 待 behandeln.
+滑雪|V|Ski fahren|滑 gleiten + 雪 Schnee.
+弹|V|(Saiten-, Tasteninstrument) spielen|弓 Bogen + 单 (Lautteil): ursprünglich die Bogensehne schnellen lassen.
+钢琴|N|Klavier|钢 Stahl + 琴 Saiteninstrument: «Instrument mit Stahlsaiten».
+平时|N|normalerweise, im Alltag|平 eben, gewöhnlich + 时 Zeit.
+网球|N|Tennis|网 Netz + 球 Ball: «Netzball».
+旅行|V/N|reisen; Reise|旅 Reise + 行 gehen.
+亚洲|Name|Asien|亚 (Lautumschrift A-) + 洲 Kontinent.
+去过|V|schon einmal hingegangen sein|去 gehen + 过 (Erfahrung). Verb + 过 = etwas schon einmal getan haben.
+空闲|Adj|frei, unbeschäftigt|空 leer + 闲 Musse. 空闲时间 = Freizeit.
+好久不见|Ausdruck|lange nicht gesehen|好久 sehr lange + 不见 nicht gesehen.
+变|V|sich verändern|Oben 亦 (Lautteil), unten 又 Hand: mit der Hand umgestalten.
+带上|V|mitnehmen|带 tragen, mitnehmen + 上 (Richtungsergänzung: dazu, auf).
+愉快|Adj|angenehm, froh|愉 froh + 快 fröhlich. 周末愉快 = schönes Wochenende.
+睡好|V|gut schlafen|睡 schlafen + 好 gut.
+没事儿|Ausdruck|macht nichts, alles in Ordnung|没 nicht haben + 事 Sache + 儿: «keine Sache».
+紧张|Adj|nervös, angespannt|紧 straff + 张 spannen (einen Bogen).
+感动|V|bewegen, rühren|感 fühlen + 动 bewegen: «das Gefühl bewegen».
+送给|V|schenken (jemandem)|送 schicken, schenken + 给 geben, für.
+小意思|Ausdruck|Kleinigkeit (bescheiden beim Schenken)|小 klein + 意思 Bedeutung, Absicht: «nur eine kleine Geste».
+春节|N|Frühlingsfest (chinesisches Neujahr)|春 Frühling + 节 Fest.
+万事如意|Ausdruck|möge alles nach Wunsch gehen|万 zehntausend + 事 Sache + 如 wie + 意 Wunsch.
+圣诞节|N|Weihnachten|圣 heilig + 诞 Geburt + 节 Fest: «Fest der heiligen Geburt».
+新婚|N|frisch verheiratet|新 neu + 婚 Heirat.
+恭喜|V|gratulieren|恭 ehrerbietig + 喜 Freude. Verdoppelt: 恭喜恭喜 = herzlichen Glückwunsch.
+预订|V|reservieren, buchen|预 im Voraus + 订 festlegen.
+劳布|Name|Laub (Familienname)|Lautumschrift: 劳 Arbeit + 布 Tuch.
+无线网|N|WLAN|无 ohne + 线 Draht + 网 Netz: «Netz ohne Draht».
+密码|N|Passwort|密 geheim + 码 Zeichen, Nummer.
+坏|Adj|kaputt, schlecht|土 Erde + 不 (Lautteil): Erde, die zerfällt. 坏了 = ist kaputt.
+热水|N|heisses Wasser|热 heiss + 水 Wasser.
+行李|N|Gepäck|行 gehen, reisen + 李 (ursprünglich 理 ordnen): Reisesachen.
+退房|V|auschecken|退 zurückgeben + 房 Zimmer.
+信用卡|N|Kreditkarte|信用 Vertrauen, Kredit + 卡 Karte.
+付|V|bezahlen|亻 Mensch + 寸 Hand: einem Menschen etwas in die Hand geben.
+地铁站|N|U-Bahn-Station|地铁 U-Bahn (地 Erde + 铁 Eisen: «Eisenbahn unter der Erde») + 站 Station.
+洗手间|N|Toilette|洗 waschen + 手 Hand + 间 Raum: «Raum zum Händewaschen».
+往|Präp|in Richtung, nach|彳 gehen + 主 (Lautteil). 往左 = nach links.
+左|Ortswort|links|Bild einer linken Hand mit Werkzeug 工.
+拐|V|abbiegen|扌 Hand + 另 (Lautteil). 往左拐 = links abbiegen.
+迷路|V|sich verirren|迷 verwirrt + 路 Weg.
+指|V|zeigen (mit dem Finger)|扌 Hand + 旨 (Lautteil). Auch: Finger.
+马路|N|Strasse|马 Pferd + 路 Weg: ursprünglich «Weg für Pferdewagen».
+公交车|N|Bus (öffentlicher Verkehr)|公交 öffentlicher Verkehr + 车 Fahrzeug.
+师傅|N|Meister; Anrede für Taxifahrer, Handwerker|师 Lehrer + 傅 Lehrmeister.
+地址|N|Adresse|地 Ort + 址 Stelle, Standort.
+大概|Adv|ungefähr|大 gross + 概 Gesamtheit: «im Grossen und Ganzen».
+停车|V|anhalten, parkieren|停 halten + 车 Fahrzeug.
+高铁|N|Hochgeschwindigkeitszug|高 hoch + 铁 Eisen(bahn): Kurzform für 高速铁路.
+出发|V|abfahren, aufbrechen|出 hinaus + 发 losschicken.
+站台|N|Bahnsteig, Gleis|站 Station + 台 Plattform.
+座位|N|Sitzplatz|座 Sitz + 位 Platz.
+航班|N|Flug (Flugnummer)|航 fahren (Schiff, Flugzeug) + 班 Schicht, planmässige Fahrt.
+晚点|V|Verspätung haben|晚 spät + 点 Zeitpunkt.
+办|V|erledigen|力 Kraft mit zwei Punkten: Arbeit verrichten.
+登机|V|an Bord gehen (Flugzeug)|登 hinaufsteigen + 机 Maschine, Flugzeug.
+手续|N|Formalitäten|手 Hand + 续 fortsetzen: Abläufe von Hand zu Hand. 登机手续 = Check-in.
+靠|V|sich lehnen; nahe an|告 (Lautteil) + 非: an etwas angelehnt. 靠窗 = am Fenster.
+窗|N|Fenster|穴 Höhle, Öffnung + 囱 Rauchloch.
+发票|N|Quittung, Rechnung|发 ausstellen + 票 Schein, Zettel.
+菜单|N|Speisekarte|菜 Gericht + 单 Liste.
+推荐|V|empfehlen|推 schieben + 荐 empfehlen: «nach vorn schieben».
+不要|V|nicht wollen; nicht (Verbot)|不 nicht + 要 wollen. 不要放 = nicht hineintun.
+辣椒|N|Chili|辣 scharf + 椒 Pfeffer.
+盐|N|Salz|Oben 土 Erde und 卜, unten 皿 Schale: Salz in der Schale.
+花生|N|Erdnuss|花 Blume + 生 wachsen: Die Frucht wächst nach der Blüte in die Erde.
+过敏|V|allergisch sein|过 zu sehr + 敏 empfindlich. 对…过敏 = allergisch gegen.
+瓶|ZW/N|Flasche|并 (Lautteil) + 瓦 Ton(gefäss).
+素菜|N|vegetarisches Gericht|素 schlicht, fleischlos + 菜 Gericht.
+打包|V|einpacken (Reste mitnehmen)|打 schlagen, machen + 包 Paket.
+买单|V|die Rechnung bezahlen|买 kaufen + 单 Rechnung. 买单！ = Zahlen bitte!
+一百|Zahl|hundert|一 eins + 百 hundert.
+只是|Adv|nur, bloss|只 nur + 是 sein.
+看看|V|anschauen, schauen|看 schauen, verdoppelt: «mal kurz schauen».
+试试|V|ausprobieren, anprobieren|试 versuchen, verdoppelt: «kurz versuchen».
+别的|Pron|andere|别 anders + 的.
+斤|ZW|Pfund (500 g)|Bild einer Axt; später Gewichtsmass. 两斤 = ein Kilo.
+袋子|N|Tüte, Sack|袋 Beutel (衣 Stoff + 代) + 子.
+刷卡|V|mit Karte zahlen|刷 bürsten, durchziehen + 卡 Karte.
+质量|N|Qualität|质 Beschaffenheit + 量 Menge, Mass.
+救命|Ausdruck|Hilfe! (Leben retten)|救 retten + 命 Leben.
+救护车|N|Krankenwagen|救 retten + 护 schützen + 车 Fahrzeug.
+头疼|V|Kopfschmerzen haben|头 Kopf + 疼 schmerzen.
+肚子|N|Bauch|月 (Fleisch) + 土 (Lautteil) + 子.
+钱包|N|Portemonnaie|钱 Geld + 包 Tasche.
+丢|V|verlieren|Oben 丿, unten 去 weggehen: etwas ist weg.
+被|Präp|(Passiv) von … wurde|衣 Kleid + 皮 (Lautteil): ursprünglich Bettdecke; heute Passivzeichen.
+偷|V|stehlen|亻 Mensch + 俞 (Lautteil).
+警察局|N|Polizeistation|警察 Polizei + 局 Amt.
+药店|N|Apotheke|药 Medikament + 店 Laden.
+青霉素|N|Penizillin|青 blaugrün + 霉 Schimmel + 素 Stoff: «Stoff aus grünem Schimmel».
+大使馆|N|Botschaft|大使 Botschafter + 馆 Gebäude.
+英语|N|Englisch|英 England + 语 Sprache.
+一百二十|Zahl|hundertzwanzig|一百 hundert + 二十 zwanzig.
+七十|Zahl|siebzig|七 sieben + 十 zehn: «sieben Zehner».
+三十|Zahl|dreissig|三 drei + 十 zehn: «drei Zehner».
+三十一|Zahl|einunddreissig|三十 dreissig + 一 eins.
+三十五|Zahl|fünfunddreissig|三十 dreissig + 五 fünf.
+三十八|Zahl|achtunddreissig|三十 dreissig + 八 acht.
+三百八十|Zahl|dreihundertachtzig|三百 dreihundert + 八十 achtzig.
+两千五百|Zahl|zweitausendfünfhundert|两千 zweitausend + 五百 fünfhundert. Vor 千 steht meist 两 statt 二.
+九十|Zahl|neunzig|九 neun + 十 zehn.
+二十八|Zahl|achtundzwanzig|二十 zwanzig + 八 acht.
+五十|Zahl|fünfzig|五 fünf + 十 zehn.
+五百|Zahl|fünfhundert|五 fünf + 百 hundert.
+八十|Zahl|achtzig|八 acht + 十 zehn.
+六百|Zahl|sechshundert|六 sechs + 百 hundert.
+十一|Zahl|elf|十 zehn + 一 eins: «zehn und eins».
+十二|Zahl|zwölf|十 zehn + 二 zwei.
+十五|Zahl|fünfzehn|十 zehn + 五 fünf.
+十八|Zahl|achtzehn|十 zehn + 八 acht.
+四十|Zahl|vierzig|四 vier + 十 zehn.
+四十三|Zahl|dreiundvierzig|四十 vierzig + 三 drei.
+四十四|Zahl|vierundvierzig|四十 vierzig + 四 vier.
