@@ -1,0 +1,10 @@
+{
+ "id": "insel-meine-saetze",
+ "titel": "Meine Sätze",
+ "thema": "Freunde und Familie",
+ "beschreibung": "Kurze Alltagssätze für Gespräche mit Freunden und Familie.",
+ "saetze": [["我 去 厨房 。", "Ich gehe in die Küche."], ["我 的 中文 不 太 好 。", "Mein Chinesisch ist nicht so gut."]],
+ "pinyin": {"中文": "zhōng wén"},
+ "woerter": [],
+ "zeichen": []
+}

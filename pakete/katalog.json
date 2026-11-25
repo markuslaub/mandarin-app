@@ -836,6 +836,32 @@
    ]
   },
   {
+   "id": "insel-meine-saetze",
+   "typ": "insel",
+   "titel": "Meine Sätze",
+   "thema": "Freunde und Familie",
+   "beschreibung": "Kurze Alltagssätze für Gespräche mit Freunden und Familie.",
+   "saetze": 2,
+   "groesse": 66695,
+   "dateien": [
+    "paket.json",
+    "audio/01-de.mp3",
+    "audio/01-langsam.mp3",
+    "audio/01.mp3",
+    "audio/02-de.mp3",
+    "audio/02-langsam.mp3",
+    "audio/02.mp3",
+    "audio/w/1.mp3",
+    "audio/w/2.mp3",
+    "audio/w/3.mp3",
+    "audio/w/4.mp3",
+    "audio/w/5.mp3",
+    "audio/w/6.mp3",
+    "audio/w/7.mp3",
+    "audio/w/8.mp3"
+   ]
+  },
+  {
    "id": "insel-hotel",
    "typ": "insel",
    "titel": "Im Hotel",
