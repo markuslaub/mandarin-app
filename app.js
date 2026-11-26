@@ -53,6 +53,7 @@
       if (!r.ok) throw 0;
       KATALOG = await r.json();
       try { localStorage.setItem('mandarin-katalog', JSON.stringify(KATALOG)); } catch (e) { }
+      var K0 = KATALOG; setTimeout(function () { syncLoaded(K0); }, 1500);
     } catch (e) {
       try { KATALOG = JSON.parse(localStorage.getItem('mandarin-katalog')); } catch (e2) { }
       if (!KATALOG) KATALOG = { pakete: [] };
@@ -262,7 +263,7 @@
     var ind = el.querySelector('[data-r=ind]'), myBlobURL = null;
     el.querySelector('[data-a=normal]').onclick = function () { play(pkg.id, s.audio); };
     el.querySelector('[data-a=slow]').onclick = function () { play(pkg.id, s.langsam); };
-    el.querySelector('[data-a=py]').onclick = function (ev) { LS.einst.pinyin = !LS.einst.pinyin; saveLS(); ev.target.setAttribute('aria-pressed', LS.einst.pinyin); el.querySelector('.zh') && el.querySelector('.zh').classList.toggle('nopy', !LS.einst.pinyin); };
+    el.querySelector('[data-a=py]').onclick = function () { setPinyin(!LS.einst.pinyin); };
     var lp = el.querySelector('[data-a=loop]');
     if (lp) lp.onclick = async function () {
       if (lp.dataset.on) { stopAudio(); lp.dataset.on = ''; lp.textContent = '🔁 Shadowing'; ind.textContent = ''; return; }
@@ -507,7 +508,7 @@
     var area = h('<div></div>');
     body.appendChild(h('<h3 style="margin-top:0">' + esc(pkg.titel) + '</h3>'));
     body.appendChild(bar); body.appendChild(area);
-    bar.querySelector('[data-a=py]').onclick = function (ev) { LS.einst.pinyin = !LS.einst.pinyin; saveLS(); ev.target.setAttribute('aria-pressed', LS.einst.pinyin); area.querySelectorAll('.zh').forEach(function (z) { z.classList.toggle('nopy', !LS.einst.pinyin); }); };
+    bar.querySelector('[data-a=py]').onclick = function () { setPinyin(!LS.einst.pinyin); };
     bar.querySelectorAll('[data-p]').forEach(function (b) { b.onclick = function () { phase = b.dataset.p; bar.querySelectorAll('[data-p]').forEach(function (x) { x.setAttribute('aria-pressed', x === b); }); render(); }; });
     function render() {
       stopAudio(); area.innerHTML = '';
@@ -891,8 +892,39 @@
     VIEW.appendChild(h('<p class="muted small">Tonbewertung: Die App legt deine Tonhöhenkurve über die Vorlage und bewertet jede Silbe (grün getroffen, gelb knapp, rot falsch). Sie prüft Töne und Rhythmus, nicht einzelne Laute. Alles läuft auf dem Gerät, ohne Internet.</p>'));
   }
 
+  // Pinyin ein/aus, gilt überall
+  function setPinyin(on) {
+    LS.einst.pinyin = !!on; saveLS();
+    document.querySelectorAll('.zh').forEach(function (z) { z.classList.toggle('nopy', !on); });
+    document.querySelectorAll('[data-a=py],#pytoggle').forEach(function (b) { b.setAttribute('aria-pressed', !!on); });
+  }
+  // Geladene Pakete aktualisieren, wenn der Katalog einen neueren Stand hat
+  var SYNCING = false;
+  async function syncLoaded(kat) {
+    if (SYNCING || !hasCache || !navigator.onLine) return; SYNCING = true;
+    try {
+      var c = await caches.open(CACHE);
+      for (var i = 0; i < kat.pakete.length; i++) {
+        var m = kat.pakete[i];
+        if (!m.stand || m.bald || !(await isLoaded(m.id))) continue;
+        var pk = await getPackage(m.id);
+        if (pk && pk.stand === m.stand) continue;
+        await c.delete(pkgUrl(m.id, 'paket.json'));
+        try { await loadPackage(m); } catch (e) { continue; }
+        var keep = {}; m.dateien.forEach(function (f) { keep[new URL(pkgUrl(m.id, f), location.href).href] = 1; });
+        var keys = await c.keys(), pre = new URL(pkgUrl(m.id, ''), location.href).href;
+        for (var k = 0; k < keys.length; k++) if (keys[k].url.indexOf(pre) === 0 && !keep[keys[k].url.split('?')[0]]) await c.delete(keys[k]);
+        delete PKG[m.id];
+        Object.keys(URLS).forEach(function (x) { if (x.indexOf(m.id + '/') === 0) delete URLS[x]; });
+        Object.keys(DECODED).forEach(function (x) { if (x.indexOf(m.id + '/') === 0) delete DECODED[x]; });
+      }
+    } finally { SYNCING = false; }
+  }
+
   // ---------- Start ----------
   loadLS();
+  var PYB = document.getElementById('pytoggle');
+  if (PYB) { PYB.setAttribute('aria-pressed', !!LS.einst.pinyin); PYB.onclick = function () { setPinyin(!LS.einst.pinyin); }; }
   if ('serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('sw.js').catch(function () { });
   if (navigator.storage && navigator.storage.persist) navigator.storage.persist().catch(function () { });
   if (location.protocol === 'file:') {

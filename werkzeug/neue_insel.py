@@ -173,7 +173,8 @@ def bauen(A, sents, D, C):
         if best is None:
             probleme.append(f'Satz {i} «{txt}»: Stimme liest «{r.text}». Bitte umformulieren.')
             best = 1.0; say(txt, tmp + n + '.wav', 1.0); r = rec(tmp + n + '.wav')
-        say(txt, tmp + n + '-slow.wav', 0.75 * best)
+        say(txt, tmp + n + '-slow0.wav', 0.75 * best)  # langsam: Sprachausgabe 0.75, dann Tempo 0.6 bei gleicher Tonhöhe
+        subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-i', tmp + n + '-slow0.wav', '-af', 'atempo=0.6', tmp + n + '-slow.wav'], check=True)
         with wave.open(tmp + n + '-de.wav', 'wb') as w:
             pv.synthesize_wav(s['de'], w)
         for w_ in s['words']:
@@ -216,12 +217,12 @@ def bauen(A, sents, D, C):
         r = refs[n]
         saetze.append({'nr': i, 'w': s['w'], 'de': s['de'], 'audio': f'audio/{n}.mp3', 'langsam': f'audio/{n}-langsam.mp3', 'audioDe': f'audio/{n}-de.mp3',
                        'ton': {'grenzen': r['bounds'], 'toene': r['tones'], 'alt': r['alt'], 'silben': r['syl']}})
-    pk = {'format': 'mandarin-paket', 'version': 1, 'id': pid, 'typ': 'insel', 'titel': A['titel'], 'thema': A['thema'],
+    pk = {'format': 'mandarin-paket', 'version': 1, 'stand': 2, 'id': pid, 'typ': 'insel', 'titel': A['titel'], 'thema': A['thema'],
           'beschreibung': A['beschreibung'], 'saetze': saetze, 'woerter': words, 'zeichen': chars}
     json.dump(pk, open(base + 'paket.json', 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
     files = ['paket.json'] + sorted(os.path.relpath(os.path.join(dp, f), base) for dp, _, fs in os.walk(base + 'audio') for f in fs)
     meta = {'id': pid, 'typ': 'insel', 'titel': A['titel'], 'thema': A['thema'], 'beschreibung': A['beschreibung'], 'saetze': len(saetze),
-            'groesse': sum(os.path.getsize(base + f) for f in files), 'dateien': files}
+            'groesse': sum(os.path.getsize(base + f) for f in files), 'dateien': files, 'stand': 2}
     kp = os.path.join(ROOT, 'pakete', 'katalog.json')
     kat = json.load(open(kp, encoding='utf-8'))
     pk_list = [p for p in kat['pakete'] if p['id'] != pid]
